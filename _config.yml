@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Juan Retamales"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/profile.png"
+  bio              : "Ingeniero Civil en Informatica"
+  location         : "Chile/Santiago"
   email            :
   links:
     - label: "Email"
